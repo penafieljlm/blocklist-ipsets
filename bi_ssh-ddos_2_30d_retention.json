@@ -1,0 +1,22 @@
+{
+	"ipset": "bi_ssh-ddos_2_30d",
+	"started": 1512342265000,
+	"updated": 1517183570000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			715 ],
+		"ips": [ 
+			2 ],
+		"total": 2
+	},
+	"current": {
+		"hours": [ 
+			460,
+			557 ],
+		"ips": [ 
+			1,
+			1 ],
+		"total": 2
+	}
+}
